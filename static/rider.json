@@ -1,0 +1,31 @@
+{
+  "rider": [
+    {
+      "id": 1,
+      "name": "徐兴兴",
+      "state": "busy",
+      "avatar": "/static/image/xxx.png",
+      "phone": "18021002988",
+      "applauseRate": "91%",
+      "nowOrder": ["T20170726092586986","T201707260925861231","T2017012392586986"]
+    },
+    {
+      "id": 2,
+      "name": "孟星",
+      "state": "free",
+      "avatar": "/static/image/mx.png",
+      "phone": "15233124515",
+      "applauseRate": "96%",
+      "nowOrder": []
+    },
+    {
+      "id": 3,
+      "name": "张凯华",
+      "state": "off",
+      "avatar": "/static/image/zkh.png",
+      "phone": "18751223154",
+      "applauseRate": "97%",
+      "nowOrder": []
+    }
+  ]
+}
